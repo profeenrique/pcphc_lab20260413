@@ -1,6 +1,6 @@
 # 🟡 LAB 20260413 PCP-HC lunes
 
-### DES01: Tiempo de estudio en casa
+## DES01: Tiempo de estudio en casa
 Crea un programa que calcule cuánto tiempo estudiaste en un día.
 
 **⬇️ Entrada:**
@@ -16,7 +16,9 @@ Estudiaste 3 horas y 30 minutos en total.
 Eso equivale a 210 minutos.
 ```
 
-### DES02: Costo de una salida al cine
+---
+
+## DES02: Costo de una salida al cine
 Crea un programa que calcule cuánto dinero gastarás en una salida al cine.
 
 **⬇️ Entrada:**
@@ -35,7 +37,9 @@ Extra en comida: $3000
 Total a pagar: $12000
 ```
 
-### DES03: ¿Cómo estuvo tu asistencia?
+---
+
+## DES03: ¿Cómo estuvo tu asistencia?
 Crea un programa que analice tu asistencia semanal y determine si tuviste buena asistencia. La asistencia es alta si es 80% o más
 
 **⬇️ Entrada:**
@@ -52,7 +56,9 @@ Porcentaje de asistencia: 80.0
 ¿Asistencia alta?: True
 ```
 
-### DES04: Estado de batería del celular
+---
+
+## DES04: Estado de batería del celular
 Crea un programa que determine el estado de la batería de un celular según su porcentaje. 
 
 Considera que:
